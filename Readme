@@ -1,33 +1,33 @@
-# 🚀 QSkill Python Internship
+ QSkill Python Internship
 
 This repository contains projects completed as part of the **QSkill Python Development Internship**.
 
 ---
 
-# 📌 Internship Details
+ Internship Details
 
-* **Domain:** Python Development
-* **Duration:** April 2026 - May 2026
-* **Projects:** 3
+*Domain:** Python Development
+*Duration:** April 2026 - May 2026
+*Projects:** 3
 
----
 
-# 📊 Projects
 
-## 1️⃣ Data Analysis using Pandas
+ 📊 Projects
 
-### Description
+ Data Analysis using Pandas
+
+ Description
 
 Performed data analysis using Pandas and created visualizations.
 
-### Technologies Used
+ Technologies Used
 
 * Python
 * Pandas
 * Matplotlib
 * Seaborn
 
-### Features
+ Features
 
 * Load CSV file
 * Calculate average
@@ -37,13 +37,13 @@ Performed data analysis using Pandas and created visualizations.
 
 ---
 
-## 2️⃣ Matrix Operations Tool
+ Matrix Operations Tool
 
-### Description
+ Description
 
 Matrix calculator using NumPy.
 
-### Features
+ Features
 
 * Matrix Addition
 * Matrix Subtraction
@@ -51,23 +51,22 @@ Matrix calculator using NumPy.
 * Transpose
 * Determinant
 
----
 
-## 3️⃣ House Price Prediction
 
-### Description
+ House Price Prediction
+
+ Description
 
 Predict house prices using Linear Regression.
 
-### Technologies Used
+ Technologies Used
 
 * Python
 * Pandas
 * Scikit-learn
 
----
 
-# 📁 Project Structure
+ Project Structure
 
 QSkill-Python-Internship
 │
@@ -75,27 +74,27 @@ QSkill-Python-Internship
 ├── Matrix-Operations
 ├── House-Price-Prediction
 
----
 
-# ⚙️ Installation
+
+ Installation
 
 pip install pandas numpy matplotlib seaborn scikit-learn
 
----
 
-# ▶️ How to Run
+
+ How to Run
 
 python data_analysis.py
 
----
 
-# 👨‍💻 Author
+
+ Author
 
 Madhu
 Python Developer
 
 ---
 
-# ⭐ Internship
+ Internship
 
 QSkill Python Internship
